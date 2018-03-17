@@ -1,1 +1,3 @@
 # nemanja
+helo there.
+my name is Nemanja and ima here to learn abouth programing...
